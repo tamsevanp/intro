@@ -4,7 +4,7 @@
 📍**Bangalore, India**  
 📧 Email: [tamsevanp@gmail.com](mailto:tamsevanp@gmail.com)   
 📞 +91 9585857867  
-🔗 [LinkedIn](https://www.linkedin.com/in/tamil-selvan)
+🔗 [LinkedIn](https://www.linkedin.com/in/tamil-selvan-p-1b1267230)
 
 ---
 
