@@ -2,7 +2,7 @@
 
 🎯 **Embedded Software Engineer**  
 📍**Bangalore, India**  
-📧 Email: [tamsevanp@gmail.com](mailto:tamsevanp@gmail.com) 
+📧 Email: [tamsevanp@gmail.com](mailto:tamsevanp@gmail.com)   
 📞 +91 9585857867  
 🔗 [LinkedIn](https://www.linkedin.com/in/tamil-selvan)
 
