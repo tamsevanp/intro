@@ -50,7 +50,7 @@ Focused on Linux kernel internals and device drivers, contributing to network op
 
 ## 🔧 Projects:
 
-### 🔌 LED Matrix Controller using Custom Device Driver | **(July 2024)**  
+### 🔌 LED Matrix controller using Custom Device Driver | **(July 2024)**  
 - Developed a **custom Linux device driver** for an 8x8 LED matrix on Raspberry Pi.
 - Used GPIO and **SPI** protocols to control LED patterns with real-time updates.
 - Built a user-space application for dynamic pattern changes, demonstrating expertise in embedded systems and driver development.  
