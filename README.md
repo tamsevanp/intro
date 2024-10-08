@@ -56,7 +56,7 @@ Focused on Linux kernel internals and device drivers, contributing to network op
 - Built a user-space application for dynamic pattern changes, demonstrating expertise in embedded systems and driver development.  
 *Skills*: C, Device Drivers, SPI
 
-### 📡 NetOpti: Elevating WLAN Performance | **(May 2024)**  
+### 📡 WiNetIQ : Wireless Network Intelligence System | **(May 2024)**  
 - Designed advanced algorithms and **real-time monitoring** to optimize WLAN performance.
 - Performed reverse engineering to enhance network reliability and reduce costs.
 - Created customizable features for diverse service provider needs.  
