@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tamil Selvan P
 
 🎯 **Embedded Software Engineer**  
-📍**Bangalore, India**  
+📍**Chennai, India**  
 📧 Email: [tamsevanp@gmail.com](mailto:tamsevanp@gmail.com)   
 📞 +91 9585857867  
 🔗 [LinkedIn](https://www.linkedin.com/in/tamil-selvan)
@@ -27,7 +27,7 @@ Currently, I'm focusing on mastering **Linux Kernel** and contributing to real-w
 
 ## 🏢 Work Experience:
 
-### Motionzen | Embedded Software Development Training | **(Jan 2024 – Present)**  
+### Motionzen | Embedded Software Development Training | **(Jan 2024 – Dec 2024)**  
 Focused on Linux kernel internals and device drivers, contributing to network optimization solutions and embedded systems innovation.
 
 ### HUDL | Sports Analyst | **(Oct 2022 – Jan 2024)**  
